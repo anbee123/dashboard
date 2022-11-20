@@ -1,3 +1,11 @@
+
 body {
-  background-color: aqua;
+  
+  text-align: center;
+  background: linear-gradient(
+    106.37deg,
+    rgb(251, 174, 187) 29.63%,
+    rgb(210, 140, 170) 50%,
+    rgb(247, 158, 173) 90%,
+  );
 }
