@@ -1,4 +1,4 @@
-import Dashboard from "./Dashboard"
+import React from "react";
 
 const Dashboard = () => {
     return (

@@ -1,5 +1,5 @@
 import React from "react";
-import Analysis from "./Analysis";
+
 
 const Analysis = () => {
     return (
