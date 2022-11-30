@@ -1,7 +1,7 @@
 import React from "react";
 
 
-  const Review = () => {
+  const Reviews = () => {
     return (
      <div className = "review"> 
      <p>Reviews</p>
@@ -9,4 +9,4 @@ import React from "react";
      </div>
     )
   }
-  export default Review;
+  export default Reviews;
