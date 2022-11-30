@@ -4,7 +4,7 @@ import Analysis from './components/Analysis';
 import Dashboard from './components/Dashboard';
 import Rating from './components/Rating';
 import Reviews from './components/Reviews';
-import Visitors from './components/Visitors';
+import Visitors from './components/Number';
 
 
 function App() {
